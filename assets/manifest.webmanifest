@@ -1,0 +1,21 @@
+{
+  "name": "Dr. Ben AI Therapist",
+  "short_name": "Dr. Ben AI",
+  "theme_color": "#00897B",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "doctor.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "doctor.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
