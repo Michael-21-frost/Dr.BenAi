@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739727619681,
+  "timestamp": 1739970169792,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/chunk-UM73H6YC.js",
         "/chunk-VS7K5OTS.js",
         "/index.html",
-        "/main-QMXN66G3.js",
+        "/main-XWXNWCHX.js",
         "/polyfills-FFHMD2TL.js",
         "/styles-EGBPNSE3.css"
       ],
@@ -42,8 +42,8 @@
     "/assets/robot.png": "88a5e2256862de4d9c28ebfde3e9781410044e58",
     "/chunk-UM73H6YC.js": "8e246424a84e28ee1b86beb27139e7711f2452d6",
     "/chunk-VS7K5OTS.js": "4f9ab5907fe49efb1ecaadf274c6d6308c57c91e",
-    "/index.html": "af741df5d8a5ab177f1566c430ce6dc951432b00",
-    "/main-QMXN66G3.js": "e85559137e065206666e7fdcbb7b1d3f02926d6d",
+    "/index.html": "ef1ee8af3b82cbc45f8888f3b5b8b453f88a14db",
+    "/main-XWXNWCHX.js": "f1a718db3b5703b43c1010bd53536492f4da939a",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/styles-EGBPNSE3.css": "e1cc5bd0a75e4f942973a8b8bfec991b52558dae"
   },
